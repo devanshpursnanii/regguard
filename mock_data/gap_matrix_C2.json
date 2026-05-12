@@ -1,0 +1,33 @@
+{
+  "company_id": "C2",
+  "company_name": "CSB Bank",
+  "regulations": [
+    {
+      "id": "R1",
+      "title": "Digital Lending Directions 2025",
+      "score": 84
+    },
+    {
+      "id": "R2",
+      "title": "KYC Master Direction 2025",
+      "score": 80
+    }
+  ],
+  "overall_score": 82,
+  "generated_at": "2026-05-04T12:00:00Z",
+  "clauses": [
+    {
+      "clause_id": "R1-8.1",
+      "clause_number": "8.1",
+      "section": "Key Fact Statement",
+      "status": "MET",
+      "confidence": 0.9,
+      "regulatory_citation": "[R1, Clause 8.1]",
+      "company_citation": "[C2-CSB, p.3]",
+      "evidence": {
+        "regulatory_sentence": "LSPs shall ensure that Key Fact Statement is provided before loan execution.",
+        "company_sentence": "Key Fact Statement is delivered prior to disbursal."
+      }
+    }
+  ]
+}

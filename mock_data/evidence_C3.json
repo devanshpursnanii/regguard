@@ -1,0 +1,11 @@
+{
+  "company_id": "C3",
+  "pairs": [
+    {
+      "regulatory_citation": "[R2, Section 4.2]",
+      "company_citation": "[C3-HDB, p.5]",
+      "regulatory_sentence": "CDD must include verification of identity and address for all customers.",
+      "company_sentence": "CDD is performed for borrowers."
+    }
+  ]
+}

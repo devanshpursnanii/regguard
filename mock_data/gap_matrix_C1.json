@@ -1,0 +1,111 @@
+{
+  "company_id": "C1",
+  "company_name": "Lendingkart",
+  "regulations": [
+    {
+      "id": "R1",
+      "title": "Digital Lending Directions 2025",
+      "score": 72
+    },
+    {
+      "id": "R2",
+      "title": "KYC Master Direction 2025",
+      "score": 80
+    }
+  ],
+  "overall_score": 76,
+  "generated_at": "2026-05-04T12:00:00Z",
+  "clauses": [
+    {
+      "clause_id": "R1-8.1",
+      "clause_number": "8.1",
+      "section": "Key Fact Statement",
+      "status": "UNMET",
+      "confidence": 0.91,
+      "regulatory_citation": "[R1, Clause 8.1]",
+      "company_citation": "[C1-Lendingkart, p.4]",
+      "evidence": {
+        "regulatory_sentence": "LSPs shall ensure that Key Fact Statement is provided before loan execution.",
+        "company_sentence": "The borrower is informed of key terms at the time of sanction."
+      }
+    },
+    {
+      "clause_id": "R1-10.2",
+      "clause_number": "10.2",
+      "section": "Cooling-off Period",
+      "status": "PARTIAL",
+      "confidence": 0.67,
+      "regulatory_citation": "[R1, Clause 10.2]",
+      "company_citation": "[C1-Lendingkart, p.7]",
+      "evidence": {
+        "regulatory_sentence": "Borrowers must be offered a cooling-off period to exit the digital loan.",
+        "company_sentence": "Borrowers may prepay or foreclose as per product terms."
+      }
+    },
+    {
+      "clause_id": "R1-12.3",
+      "clause_number": "12.3",
+      "section": "Data Privacy",
+      "status": "MET",
+      "confidence": 0.88,
+      "regulatory_citation": "[R1, Clause 12.3]",
+      "company_citation": "[C1-Lendingkart, p.9]",
+      "evidence": {
+        "regulatory_sentence": "Access to customer data shall be limited to need-to-know basis.",
+        "company_sentence": "Access to customer data is restricted to authorized staff only."
+      }
+    },
+    {
+      "clause_id": "R1-14.1",
+      "clause_number": "14.1",
+      "section": "Grievance Redressal",
+      "status": "MET",
+      "confidence": 0.79,
+      "regulatory_citation": "[R1, Clause 14.1]",
+      "company_citation": "[C1-Lendingkart, p.11]",
+      "evidence": {
+        "regulatory_sentence": "A grievance redressal officer shall be appointed and contact details disclosed.",
+        "company_sentence": "We publish grievance officer contact details on our website."
+      }
+    },
+    {
+      "clause_id": "R2-4.2",
+      "clause_number": "4.2",
+      "section": "Customer Due Diligence",
+      "status": "UNMET",
+      "confidence": 0.86,
+      "regulatory_citation": "[R2, Section 4.2]",
+      "company_citation": "[C1-Lendingkart, p.5]",
+      "evidence": {
+        "regulatory_sentence": "CDD must include verification of identity and address for all customers.",
+        "company_sentence": "Identity verification is conducted for borrowers as per policy."
+      }
+    },
+    {
+      "clause_id": "R2-5.1",
+      "clause_number": "5.1",
+      "section": "Periodic KYC Update",
+      "status": "PARTIAL",
+      "confidence": 0.62,
+      "regulatory_citation": "[R2, Section 5.1]",
+      "company_citation": "[C1-Lendingkart, p.6]",
+      "evidence": {
+        "regulatory_sentence": "Periodic KYC updates shall be performed based on customer risk category.",
+        "company_sentence": "KYC is updated periodically for active borrowers."
+      }
+    },
+    {
+      "clause_id": "R2-7.3",
+      "clause_number": "7.3",
+      "section": "Record Retention",
+      "status": "MET",
+      "confidence": 0.9,
+      "regulatory_citation": "[R2, Section 7.3]",
+      "company_citation": "[C1-Lendingkart, p.12]",
+      "evidence": {
+        "regulatory_sentence": "Records shall be retained for at least five years after closure.",
+        "company_sentence": "Customer records are retained for a minimum of five years."
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "company_id": "C3",
+  "company_name": "HDB Financial",
+  "regulations": [
+    {
+      "id": "R1",
+      "title": "Digital Lending Directions 2025",
+      "score": 58
+    },
+    {
+      "id": "R2",
+      "title": "KYC Master Direction 2025",
+      "score": 64
+    }
+  ],
+  "overall_score": 61,
+  "generated_at": "2026-05-04T12:00:00Z",
+  "clauses": [
+    {
+      "clause_id": "R2-4.2",
+      "clause_number": "4.2",
+      "section": "Customer Due Diligence",
+      "status": "UNMET",
+      "confidence": 0.83,
+      "regulatory_citation": "[R2, Section 4.2]",
+      "company_citation": "[C3-HDB, p.5]",
+      "evidence": {
+        "regulatory_sentence": "CDD must include verification of identity and address for all customers.",
+        "company_sentence": "CDD is performed for borrowers."
+      }
+    }
+  ]
+}

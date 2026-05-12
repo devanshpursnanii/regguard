@@ -1,0 +1,11 @@
+{
+  "company_id": "C2",
+  "pairs": [
+    {
+      "regulatory_citation": "[R1, Clause 8.1]",
+      "company_citation": "[C2-CSB, p.3]",
+      "regulatory_sentence": "LSPs shall ensure that Key Fact Statement is provided before loan execution.",
+      "company_sentence": "Key Fact Statement is delivered prior to disbursal."
+    }
+  ]
+}

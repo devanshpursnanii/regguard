@@ -1,0 +1,17 @@
+{
+  "company_id": "C1",
+  "pairs": [
+    {
+      "regulatory_citation": "[R1, Clause 8.1]",
+      "company_citation": "[C1-Lendingkart, p.4]",
+      "regulatory_sentence": "LSPs shall ensure that Key Fact Statement is provided before loan execution.",
+      "company_sentence": "The borrower is informed of key terms at the time of sanction."
+    },
+    {
+      "regulatory_citation": "[R2, Section 4.2]",
+      "company_citation": "[C1-Lendingkart, p.5]",
+      "regulatory_sentence": "CDD must include verification of identity and address for all customers.",
+      "company_sentence": "Identity verification is conducted for borrowers as per policy."
+    }
+  ]
+}

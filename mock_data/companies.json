@@ -1,0 +1,23 @@
+[
+  {
+    "id": "C1",
+    "name": "Lendingkart",
+    "doc_id": "C1_lendingkart_fpc_2025",
+    "overall_score": 76,
+    "status": "PARTIAL"
+  },
+  {
+    "id": "C2",
+    "name": "CSB Bank",
+    "doc_id": "C2_csb_fpc_2024",
+    "overall_score": 82,
+    "status": "MET"
+  },
+  {
+    "id": "C3",
+    "name": "HDB Financial",
+    "doc_id": "C3_hdb_fpc_2024",
+    "overall_score": 61,
+    "status": "PARTIAL"
+  }
+]
